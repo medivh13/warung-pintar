@@ -17,14 +17,14 @@ I have no idea what service I have to build, I apologize in advance, because sud
 - this service will return the promos of the products
 
 # For setup after cloning the repo:
-cd warung-pintar
-cd checkout-service, go mod tidy
-cd item-service, go mod tidy
-cd promo-service, go mod tidy
+- cd warung-pintar
+- cd checkout-service, go mod tidy
+- cd item-service, go mod tidy
+- cd promo-service, go mod tidy
 
 # to do a unit test :
-go to the package you want to testing then run a command "go test"
-you can see the coverage testing in each package by open the project with vscode, choose the testing file, right click then choose "Go:Toogle Test Coverage in Current Package"
+- go to the package you want to testing then run a command "go test"
+- you can see the coverage testing in each package by open the project with vscode, choose the testing file, right click then choose "Go:Toogle Test Coverage in Current Package"
 
 # summary of unit test 
 I have done the unit test and here are the result :
@@ -48,8 +48,8 @@ I have done the unit test and here are the result :
 
 
 # for db table :
-I use Postgresql for DB
-> in folder db, there are 2 .sql files with the create table command and insert command. you can run the command in your sql editor page.
+> I use Postgresql for DB
+>> in folder db, there are 2 .sql files with the create table command and insert command. you can run the command in your sql editor page.
 
 # to running the project
 after clone and do some set up that explained before, do this following actions :
