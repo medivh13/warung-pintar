@@ -1,0 +1,6 @@
+{"level":"info","msg":"listen on:8080","time":"2022-07-26T10:12:02+07:00"}
+{"level":"warning","msg":"got signal: 0x140001e9b00, shutting down server ...","time":"2022-07-26T10:12:37+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-26T10:12:37+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-26T11:54:37+07:00"}
+{"level":"warning","msg":"got signal: 0x140001e7b00, shutting down server ...","time":"2022-07-26T11:55:10+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-26T11:55:10+07:00"}

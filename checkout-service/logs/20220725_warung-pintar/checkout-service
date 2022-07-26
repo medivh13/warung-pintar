@@ -1,0 +1,87 @@
+{"level":"info","msg":"sql database connection postgres success","time":"2022-07-25T09:14:33+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T09:14:33+07:00"}
+{"level":"warning","msg":"got signal: 0x14000304240, shutting down server ...","time":"2022-07-25T09:16:33+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T09:16:33+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-07-25T09:16:33+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-07-25T10:10:15+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T10:10:15+07:00"}
+{"level":"warning","msg":"got signal: 0x14000304240, shutting down server ...","time":"2022-07-25T10:11:09+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T10:11:09+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-07-25T10:11:09+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-07-25T10:19:24+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T10:19:24+07:00"}
+{"level":"warning","msg":"got signal: 0x14000304240, shutting down server ...","time":"2022-07-25T10:19:27+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T10:19:27+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-07-25T10:19:27+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-07-25T10:39:46+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T10:39:46+07:00"}
+{"level":"warning","msg":"got signal: 0x14000304240, shutting down server ...","time":"2022-07-25T10:39:53+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T10:39:53+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-07-25T10:39:53+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-07-25T12:19:37+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T12:19:37+07:00"}
+{"level":"warning","msg":"got signal: 0x140002b4240, shutting down server ...","time":"2022-07-25T12:19:44+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T12:19:44+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-07-25T12:19:44+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-07-25T17:13:51+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:13:51+07:00"}
+{"level":"warning","msg":"got signal: 0x14000300420, shutting down server ...","time":"2022-07-25T17:13:57+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:13:57+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-07-25T17:13:57+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:22:07+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:23:24+07:00"}
+{"level":"fatal","msg":"listen tcp :8080: bind: address already in use","time":"2022-07-25T17:23:24+07:00"}
+{"level":"warning","msg":"got signal: 0x1400021bb00, shutting down server ...","time":"2022-07-25T17:23:40+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:23:40+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:26:13+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:31:45+07:00"}
+{"level":"warning","msg":"got signal: 0x14000213b00, shutting down server ...","time":"2022-07-25T17:34:09+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:34:09+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:34:17+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:34:44+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:36:28+07:00"}
+{"level":"warning","msg":"got signal: 0x1400021bb00, shutting down server ...","time":"2022-07-25T17:36:40+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:36:40+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:36:44+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:37:21+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:37:34+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:37:40+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:37:48+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:39:59+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:40:54+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:41:41+07:00"}
+{"level":"warning","msg":"got signal: 0x14000213b00, shutting down server ...","time":"2022-07-25T17:42:28+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:42:28+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:42:33+07:00"}
+{"level":"warning","msg":"got signal: 0x1400019bb00, shutting down server ...","time":"2022-07-25T17:43:09+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:43:09+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:43:12+07:00"}
+{"level":"warning","msg":"got signal: 0x14000213b00, shutting down server ...","time":"2022-07-25T17:44:27+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:44:27+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:44:31+07:00"}
+{"level":"warning","msg":"got signal: 0x14000215b00, shutting down server ...","time":"2022-07-25T17:45:25+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:45:25+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:45:29+07:00"}
+{"level":"warning","msg":"got signal: 0x1400021db00, shutting down server ...","time":"2022-07-25T17:46:08+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:46:08+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:46:11+07:00"}
+{"level":"warning","msg":"got signal: 0x1400021bb00, shutting down server ...","time":"2022-07-25T17:48:09+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:48:09+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:48:12+07:00"}
+{"level":"warning","msg":"got signal: 0x140001ebb00, shutting down server ...","time":"2022-07-25T17:50:13+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:50:13+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:51:15+07:00"}
+{"level":"warning","msg":"got signal: 0x140001e7b60, shutting down server ...","time":"2022-07-25T17:52:12+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:52:12+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:52:16+07:00"}
+{"level":"warning","msg":"got signal: 0x14000215b00, shutting down server ...","time":"2022-07-25T17:54:51+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:54:51+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:54:56+07:00"}
+{"level":"warning","msg":"got signal: 0x140001e7b60, shutting down server ...","time":"2022-07-25T17:55:55+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:55:55+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T17:56:02+07:00"}
+{"level":"warning","msg":"got signal: 0x14000215b00, shutting down server ...","time":"2022-07-25T17:59:11+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T17:59:11+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-07-25T18:00:53+07:00"}
+{"level":"warning","msg":"got signal: 0x14000215b00, shutting down server ...","time":"2022-07-25T18:01:39+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-07-25T18:01:39+07:00"}
