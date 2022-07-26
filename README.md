@@ -16,6 +16,9 @@ I have no idea what service I have to build, I apologize in advance, because sud
 > promo-service
 - this service will return the promos of the products
 
+# sequence diagram
+the flow explained in warung-pintar.png
+
 # For setup after cloning the repo:
 - cd warung-pintar
 - cd checkout-service, go mod tidy
